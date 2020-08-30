@@ -10,13 +10,7 @@ import com.spaceinvaders.game.screens.GameoverScreen;
 import com.spaceinvaders.game.screens.LoadingScreen;
 
 public class SpaceInvaders extends ApplicationAdapter {
-	/**
-	 * Patterns used:
-	 * 		1. Factory
-	 * 		2. Flyweight
-	 * 		3. Observer
-	 * 		4. Facade
-	 */
+
 	public Screen currentScreen;
 
 	@Override
