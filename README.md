@@ -1,5 +1,5 @@
 # Space invaders
 
-Space invaders clone written in java programming language. Use intellij IDEA for the love of god.
+Space invaders clone written in java programming language.
 
 ![preview](img/comb.png)
